@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farrukh Noor Khan</h1>
+<h1 align="center">Hi 👋, I'm Babar Noor Khan</h1>
 <h3 align="center">AI Developer | Machine Learning Engineer | Multi-Agent Systems Enthusiast 🤖🧠</h3>
 
 <p align="center">
