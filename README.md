@@ -8,7 +8,7 @@
 - 🌟 AI isn't just my field—it's my canvas to code intelligence into existence.  
 - 🧠 Exploring **NLP, Computer Vision, Multi-Agent LLMs**, and **AI Product Prototyping**.  
 - 📬 Reach me at: **babarnoorkhan@gmail.com**  
-- ⚡ Fun fact: *“Patience and code both can teach machines to think.”*  
+- ⚡ Funfact: *“Patience and code both can teach machines to think.”*  
 
 ---
 
