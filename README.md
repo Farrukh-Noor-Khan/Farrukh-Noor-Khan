@@ -7,7 +7,7 @@
 
 - 🌟 AI isn't just my field—it's my canvas to code intelligence into existence.  
 - 🧠 Exploring **NLP, Computer Vision, Multi-Agent LLMs**, and **AI Product Prototyping**.  
-- 📬 Reach me at: **farrukhnoorkhan456@gmail.com**  
+- 📬 Reach me at: **babarnoorkhan@gmail.com**  
 - ⚡ Fun fact: *“Patience and code both can teach machines to think.”*  
 
 ---
@@ -71,23 +71,6 @@
 - 🧮 MATLAB Onramp – MathWorks  
 
 ---
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/farrukhkhan-f12" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Farrukh-Noor-Khan" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@iam.farrukh" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrukh-Noor-Khan&theme=radical" alt="Farrukh's GitHub Streak" />
 </p>
